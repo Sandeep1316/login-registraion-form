@@ -27,7 +27,7 @@ window.alert("registration form is ready to fill");
 }
 function login(){
 window.alert("you are ready to login");
-window.location.href="file:///C:/Users/SANDEEP/Desktop/login.html";
+<!window.location.href="file:///C:/Users/SANDEEP/Desktop/login.html";>
 window.open("file:///C:/Users/SANDEEP/Desktop/login.html","_blank");
 }
 </script>
